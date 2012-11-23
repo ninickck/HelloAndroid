@@ -5,5 +5,9 @@
     <string name="hello">Welcome!</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_help">Help</string>
-
+    <string name="edit_hint">Write here&#8230;</string>
+    <string name="btn_send">Send</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_msg">Message</string>
+	<string name="show_message">Show it</string>
 </resources>

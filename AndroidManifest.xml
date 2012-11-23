@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="orz.ninickck.helloandroid.ShowMsgActivity"
+            android:label="@string/title_activity_show_msg"
+            android:parentActivityName="orz.ninickck.helloandroid.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="orz.ninickck.helloandroid.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
