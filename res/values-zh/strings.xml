@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloAndroid</string>
+    <string name="hello">欢迎！</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_help">帮助</string>
+    <string name="edit_hint">写点什么&#8230;</string>
+    <string name="btn_send">发送</string>
+    <string name="hello_world">欢迎使用！</string>
+    <string name="title_activity_show_msg">信息</string>
+	<string name="show_message">显示</string>
+</resources>
