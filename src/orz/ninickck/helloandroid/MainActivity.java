@@ -23,12 +23,5 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.activity_main, menu);
         return true;
     }
-   
-    public void sendMsg(View view){
-    	Intent intent = new Intent(this, ShowMsgActivity.class);
-    	EditText editText = (EditText) findViewById(R.id.eT01);
-        String message = editText.getText().toString();
-        intent.putExtra(EXTRA_MESSAGE, message);
-        startActivity(intent);
-    }
+
 }
